@@ -1,5 +1,5 @@
 # QuicBuild
 
-![QuicBuild Logo](ReopBanner.png)
+![QuicBuild Logo](RepoBanner.png)
 
 QuicBuild: Building Rust Programs, Made Simple.
